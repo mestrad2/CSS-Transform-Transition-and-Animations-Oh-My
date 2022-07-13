@@ -1,3 +1,7 @@
 main {
+    transform:skewY(-5deg)
+}
 
+main > div {
+    transform: skewY(-3deg);
 }
